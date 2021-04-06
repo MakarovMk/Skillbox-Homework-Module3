@@ -1,0 +1,7 @@
+D:\Skillbox\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\bin\Debug\Homework_Theme_03.exe.config
+D:\Skillbox\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\bin\Debug\Homework_Theme_03.exe
+D:\Skillbox\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\bin\Debug\Homework_Theme_03.pdb
+D:\Skillbox\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\obj\Debug\Homework_Theme_03.csprojAssemblyReference.cache
+D:\Skillbox\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\obj\Debug\Homework_Theme_03.csproj.CoreCompileInputs.cache
+D:\Skillbox\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\obj\Debug\Homework_Theme_03.exe
+D:\Skillbox\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\obj\Debug\Homework_Theme_03.pdb
