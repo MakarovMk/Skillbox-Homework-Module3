@@ -222,7 +222,6 @@ namespace Homework_Theme_03
                 }
             }
         }
-
     }
 }
 
